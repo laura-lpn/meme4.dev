@@ -1,6 +1,6 @@
 # Bienvenue sur Meme4.dev
 
-Un projet fictif d'une platform de création de meme.
+Un projet fictif d'une platforme de création de meme.
 
 Avec une API en Node.js et Express et un Front en Vue.js et Tailwind.  
 

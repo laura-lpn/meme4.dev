@@ -69,7 +69,7 @@ __Et voilà l'installation est terminée.__
 
 - Phpmyadmin : http://localhost:8080  
     Pour la connexion à Phpmyadmin :  
-    - Utilisateur : `minio-root-user`  
-    - Mot de passe : `minio-root-password`  
+    - Utilisateur : `root`  
+    - Mot de passe : `example`  
 
 - Mysql : http://localhost:3306

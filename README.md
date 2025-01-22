@@ -1,6 +1,6 @@
 <img src="frontend/src/assets/favicon.svg" alt="Logo de KitUI" title="Logo de KitUI" width="100"/>
 
-# Bienvenue sur Meme4.dev
+# Meme4.dev
 
 Un projet fictif d'une plateforme de création de memes.
 
